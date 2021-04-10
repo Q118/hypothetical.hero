@@ -15,3 +15,20 @@ const Hero = [
 	"some type of event/situation/dialgoue to signify there is more to the story and to be continued with edge on our seats",
 	"ending credits",
 ];
+// funcional ^  bc same experiences nvr go AWAY
+
+// function heroObj(events) {
+// 	this.events = events;
+
+// 	this.life = function () {
+// 		Hero.forEach(thing) =>  analyze(events) {
+
+// 		}
+
+// 	}
+
+// }
+
+
+
+
